@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-anim"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-awt-util"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-bridge"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-codec"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-constants"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-css"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-ext"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-extension"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-gui-util"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-gvt"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-i18n"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-parser"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-rasterizer"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-rasterizer-ext"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-slideshow"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-squiggle"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-squiggle-ext"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-svg-dom"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-svgbrowser"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-svggen"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-svgpp"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-svgrasterizer"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-swing"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-test"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-test-svg"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-test-swing"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-transcoder"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-ttf2svg"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-util"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-xml"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-dom"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/batik-script"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Batik_Addons"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
